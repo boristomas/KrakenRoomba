@@ -7,7 +7,7 @@ This could be done using Roomba control port (serial) but i like it this way.
 - DuckDNS is used to expose device service to the internet with some port forwarding on my router.
 
 ## Intro video:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/38AYeNGjqg0/0.jpg)](https://www.youtube.com/watch?v=38AYeNGjqg0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JdULD7TMrrI/0.jpg)](https://www.youtube.com/watch?v=JdULD7TMrrI)
 
 ## Original _Release the Kraken_ video:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/38AYeNGjqg0/0.jpg)](https://www.youtube.com/watch?v=38AYeNGjqg0)
