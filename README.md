@@ -5,3 +5,5 @@ This could be done using Roomba control port (serial) but i like it this way.
 
 - Device is powered using Roomba battery pack.
 - DuckDNS is used to expose device service to the internet with some port forwarding on my router.
+
+Original video: https://www.youtube.com/watch?v=38AYeNGjqg0
